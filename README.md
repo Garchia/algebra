@@ -1,1 +1,3 @@
-# algebra
+# Ejercicios de Álgebra
+
+Repositorio para almacenar ejercicios de programación algebráicos.

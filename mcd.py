@@ -17,7 +17,6 @@ print("A continuación se le pedirá ingresar 2 valores numéricos: \n")
 a = int(input("Primer número: "))
 b = int(input("Segundo número: "))
 
-
 print("\nProcedimiento: "+"\n")
 
 mcd = euclides(a, b)
